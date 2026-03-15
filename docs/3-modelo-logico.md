@@ -1,6 +1,10 @@
-# Modelo Lógico usando Mermaid
+# MODELO LÓGICO
 
-```language
+## Modelo Lógico usando [Mermaid](https://mermaid.js.org/)
+
+Modelo lógico utilizando Mermaid, para o sistema de gestão de ativos de saneamento:
+
+```mermaid
 erDiagram
     ATIVO {
         int id_ativo PK
